@@ -17,7 +17,8 @@ Install MySQL or any other relational database management system you prefer.
 `Go to the project directory`
 `Open directory in TERMINAL`
 ```
-    php -S localhost:8000
+    php -S localhost:8000<br>![Screenshot 2024-06-23 180106](https://github.com/surajkumar2098/student_management_php/assets/173556943/7a4ce9cf-6062-4368-aaef-88ef83fc7f8a)
+
 ```
 # OR
 `you can run it on xampp as well where you just have start apache and mysql`
