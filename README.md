@@ -19,6 +19,9 @@ Install MySQL or any other relational database management system you prefer.
 ```
     php -S localhost:8000
 ```
+# OR
+`you can run it on xampp as well where you just have start apache and mysql`
+`go on your browser and type localhost/student_management/`
 
 
 ### php ERROR
